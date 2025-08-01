@@ -1,0 +1,25 @@
+{
+  "name": "abtesting-clone",
+  "version": "1.0.0",
+  "description": "Modern clone of ABtesting.ai with customizable business information",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "http-server dist -p 3000"
+  },
+  "dependencies": {
+    "swiper": "^11.0.5",
+    "aos": "^2.3.4",
+    "gsap": "^3.12.2"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "http-server": "^14.1.1",
+    "sass": "^1.69.0"
+  },
+  "keywords": ["landing-page", "a-b-testing", "conversion-optimization", "business-template"],
+  "author": "Your Name",
+  "license": "MIT"
+}
